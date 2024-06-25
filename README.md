@@ -14,7 +14,7 @@ The Multilingual News Reader:
 
 ## Demonstration
 
-![News Reader Demo](https://example.com/demo.gif)
+![News Reader Demo](https://github.com/atandritC/Project-Demos/blob/main/Multilingual%20News%20Reader.mp4)
 
 ## Installation and Usage Instructions (For End-Users)
 
