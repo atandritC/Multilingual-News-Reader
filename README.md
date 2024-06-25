@@ -13,8 +13,7 @@ The Multilingual News Reader:
 - Reads out the translated headlines using text-to-speech.
 
 ## Demonstration
-
-![News Reader Demo](https://github.com/atandritC/Project-Demos/blob/main/Multilingual%20News%20Reader.mp4)
+![News Reader Demo](https://github.com/atandritC/Multilingual-News-Reader/assets/171701462/f4d4af58-9a49-4297-be36-e73b39906dd4)
 
 ## Installation and Usage Instructions (For End-Users)
 
