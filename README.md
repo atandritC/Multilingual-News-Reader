@@ -15,34 +15,7 @@ The Multilingual News Reader:
 ## Demonstration
 For a video demonstration, click [here](https://github.com/atandritC/Multilingual-News-Reader/assets/171701462/f4d4af58-9a49-4297-be36-e73b39906dd4).
 
-## Installation and Usage Instructions (For End-Users)
-
-To use the Multilingual News Reader application, follow these steps:
-
-1. **Clone the Repository:**
-
-```bash
-git clone https://github.com/yourusername/Multilingual-News-Reader.git
-cd Multilingual-News-Reader
-```
-
-2. **Install Dependencies:**
-
-Install the necessary Python packages:
-
-```bash
-pip install -r requirements.txt
-```
-
-3. **Run the Application:**
-
-Execute the `news_reader.py` file using your preferred code editor or via the terminal:
-
-```bash
-python news_reader.py
-```
-
-## Installation and Usage Instructions (For Developers)
+## Installation and Usage Instructions 
 
 If you would like to run the application locally or contribute to its development, follow these steps:
 
